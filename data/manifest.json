@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 4,
+  "modelVersion": "2026.ppr.4000",
+  "generatedAt": "2026-08-18T02:21:28.674040+00:00",
+  "season": 2026,
+  "week": 2,
+  "playerCount": 427,
+  "weekCount": 18,
+  "sampleCount": 600,
+  "quantScale": 0.25,
+  "stats": [
+    {
+      "name": "receptions",
+      "scale": 0.1
+    },
+    {
+      "name": "rec_yards",
+      "scale": 1.0
+    },
+    {
+      "name": "rec_td",
+      "scale": 0.05
+    },
+    {
+      "name": "rush_yards",
+      "scale": 1.0
+    },
+    {
+      "name": "rush_td",
+      "scale": 0.05
+    },
+    {
+      "name": "pass_yards",
+      "scale": 3.0
+    },
+    {
+      "name": "pass_td",
+      "scale": 0.05
+    },
+    {
+      "name": "interceptions",
+      "scale": 0.05
+    },
+    {
+      "name": "fixed_points",
+      "scale": 0.25
+    }
+  ],
+  "files": {
+    "players": {
+      "path": "players.json",
+      "bytes": 410710,
+      "sha256": "255a9a105be5d6399892bf04d67c015ae1ca3c16cea2f34d279ea31ad608b0eb"
+    },
+    "samples": {
+      "path": "samples.bin",
+      "bytes": 41504400,
+      "sha256": "cf9e80188c242289e01fc88fe4738f23fb45a0bc8b0b69b7253baa786aa69cda"
+    },
+    "samplesCompressed": {
+      "path": "samples.bin.z",
+      "encoding": "deflate",
+      "bytes": 6563022,
+      "sha256": "a8b06abd132a8b46a92f0053c7eda1c073f48687765305393609af91b2553968"
+    }
+  }
+}
