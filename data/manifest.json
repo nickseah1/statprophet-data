@@ -1,7 +1,7 @@
 {
   "schemaVersion": 5,
   "modelVersion": "2026.ppr.4000",
-  "generatedAt": "2026-08-23T02:40:33.180417+00:00",
+  "generatedAt": "2026-08-23T03:29:08.122834+00:00",
   "season": 2026,
   "week": 2,
   "playerCount": 431,
@@ -53,8 +53,8 @@
   "files": {
     "players": {
       "path": "players.json",
-      "bytes": 944487,
-      "sha256": "9139c603bba3671524a5fab25e088da9e96bf1c5111f3cd62cb7890b5b7a8a2d"
+      "bytes": 990955,
+      "sha256": "2e9bb4dae4b799e099e4740114017c5a5ba46d7d1451dd806c8ba929e4a842f0"
     },
     "samples": {
       "path": "samples.bin",
