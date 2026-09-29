@@ -1,7 +1,7 @@
 {
   "schemaVersion": 5,
   "modelVersion": "2026.ppr.4000",
-  "generatedAt": "2026-09-29T14:36:25.758880+00:00",
+  "generatedAt": "2026-09-29T16:13:09.094496+00:00",
   "season": 2026,
   "week": 4,
   "playerCount": 420,
@@ -53,19 +53,19 @@
   "files": {
     "players": {
       "path": "players.json",
-      "bytes": 1310410,
-      "sha256": "86a77f289c470bf4261d69ba1032da349452b9da649459394f6380f16cd57955"
+      "bytes": 1312883,
+      "sha256": "bfc686e9a7c81a531b27fb4e4753deb18b697d9d1213e3abef227c7383e2c257"
     },
     "samples": {
       "path": "samples.bin",
       "bytes": 45360000,
-      "sha256": "7af5a2155817e8031f055811bd532b1fad2f7c0f929dd9fce759a85756008243"
+      "sha256": "517062590a780e6c3ac9525c49f3d29d3b286a947ff8448950b7a22c46a7ed08"
     },
     "samplesCompressed": {
       "path": "samples.bin.z",
       "encoding": "deflate",
-      "bytes": 6903001,
-      "sha256": "3a6220cbb5b8e45a898a7f3ab683f878d84c3078a1c966e09f8bd6174679c0a0"
+      "bytes": 6877001,
+      "sha256": "63c430a337dd36844e43671b89524dec3eb221849a07e5b447d0e98e7ef6c488"
     }
   }
 }
